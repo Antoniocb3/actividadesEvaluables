@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.acierto {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
+body {
+    background-color:cyan;
+}
+
